@@ -1,13 +1,25 @@
 subject: Experiences
-listing-order: 2
+listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: BigHand Ltd
+    role: Senior Platform Engineer
+    date: Nov. 2023 - Ongoing
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
+      - Actively promoting DevOps ways of working and SRE best practices within the teams.
+      - Workwith DevOps/Platform Engineers, Developers,Architecture and Security to design,plan, implement and release necessary changes according to the needs of the business.
+      - Drive continuous improvement in processes and tooling, significantly enhancing system architecture and operational efficiency.
+      - Add,improve and maintain modules in our Terraform & PowerShell module library.
+      - Deploying and maintain an enterprise grade monitoring and alerting solutions of applications, networks, data and infrastructure services. 
+      - Assist in the creation of reports/dashboards forusage andup-time.
+      - Foster cross-functional collaboration, aligning DevOps, development, and security teams to designand implement business-critical infrastructure changes.
+      - Automate build and release manual activities using DevOps best practices
+      - Create guides and documentation for the development team to operate and maintain products. 
+      - Optimise costs through efficient capacity planning and scaling of service
+      - Manage transition to Azure cloud, optimizing container-based architectures and maintaining Terraform & PowerShell module libraries.
+      - Develop enterprise-grade monitoring solutions, swiftly identifying and resolving system health issues to ensure optimal performance.
+      - Lead incident management,providing out-of-hours support and conducting root cause analysis to deliver solutions within SLAs.
+      - Working with other DevOps/PlatformEngineers inproviding templates and knowledge that facilitates smooth automation process throughout a project lifecycle
   - title: Amazone
     role: Senior Software Engineer
     description: 
