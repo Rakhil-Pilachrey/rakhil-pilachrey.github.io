@@ -20,15 +20,43 @@ contents:
       - Develop enterprise-grade monitoring solutions, swiftly identifying and resolving system health issues to ensure optimal performance.
       - Lead incident management,providing out-of-hours support and conducting root cause analysis to deliver solutions within SLAs.
       - Working with other DevOps/PlatformEngineers inproviding templates and knowledge that facilitates smooth automation process throughout a project lifecycle
-  - title: Amazone
-    role: Senior Software Engineer
+  - title: PriceWaterhouseCoopers
+    role: Manager - Cloud Platform Engineering
+    date: Jul. 2022 - Nov. 2023
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Foster cross-functional team work in cloud platform engineering, aligning with enterprise goals.
+      - Guide 7-10 team members, cultivating a culture of innovation and continuous improvement in cloud infrastructure management.
+      - Lead a team ensuring cloud infrastructure resilience and security for PwC and clients.
+      - Develop enterprise cloud adoption frameworks and landing zones, enhancing operational efficiency.
+      - Design and implement cost-optimized cloud infrastructure as code, improving performance and reliability.
+      - Oversee cyber recovery initiatives, protecting cloud applications from ransomware and other attacks.
+      - Conduct enterprise resiliency and security reviews, delivering robust cloud architecture solutions.
+      - Manage cloud infrastructure, ensuring compliance with PwC and client security policies.
+  - title: Microsoft Corporation
+    role: Cloud Consultant
+    date: May. 2020 - Jul. 2022
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Led a team of 15 to deliver cloud migration best practices, achieving a 30%-40% cost reduction.
+      - Spearheaded cloud migration strategies, setting roadmaps and conducting workshops to ensure smooth transitions for enterprise clients.
+      - Architected cloud infrastructure based on well-architected framework pillars, optimizing resources and reducing costs significantly for clients by ensuring security and performance.
+      - Implemented DevOps-driven infrastructure with Terraform and Azure DevOps.
+      - Drafted design documents for cloud estate, optimizing resource deployment.
+  - title: Mindtree Ltd
+    role: Team Lead (Cloud Engineering)
+    date: May. 2017 - May. 2020
+    description: 
+      - Deploy AzureVM susing ARM templates, automation runbooks, and IaaS workloads, enhancing efficiency.
+      - Implement and configure AzureAD, App registration, and App Gateway, ensuring secure access.
+      - Design Azure Vnets, subnets, NSG and load balancers meeting customer requirements.
+      - Migrate on-premises workloads to Azure, improving scalability and reducing costs.
+      - Create automated solutions for Azure infrastructure,usingPowerShell and ARM templates.
+  - title: Tata Elxsi Ltd
+    role: Senior Cloud Infrastructure Engineer
+    date: June. 2015 - May. 2017
+    description: 
+      - Managed Windows Servers installation and configuration, ensuring seamless integration and performance.
+      - Configured and troubleshooted Domain Controllers, enhancing network reliability and security.
+      - Administered AD, DHCP, DNS, and SVN services, optimizing system functionality and uptime.
+      - Developed and tested GPOs, aligning with business and security needs,improving compliance.
+      - Implemented strategic server management practices resulting in measurable operational efficiency.
+    
